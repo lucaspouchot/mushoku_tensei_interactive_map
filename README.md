@@ -1,6 +1,6 @@
-# Mushoku Tensei: Interractive Map
+# Mushoku Tensei: Interactive Map
 
-This project offer an interractive map for the light novel Mushoku Tensei.
+This project offer an interactive map for the light novel Mushoku Tensei.
 Based on the storie, you can follow where the personnage are on the map moving the timeline.
 
 # Features
