@@ -49,16 +49,48 @@ _Avoid_: Road, path
 ### Time
 
 **Story Date**:
-A moment expressed in the world's own calendar; the axis of the timeline.
+When something happens in the world's own calendar (Armored Dragon Era years and Seasons), as precise as the text allows, from a single Season to a span of years; the axis of the timeline.
 _Avoid_: Date (ambiguous), timestamp
 
+**Armored Dragon Era**:
+The world's calendar era, counted in years; the only calendar the text names (years 414, 417, 422).
+_Avoid_: ADE in prose, Kōryū era
+
+**Season**:
+One of the four quarters of a year, in the order spring, summer, autumn, winter; a winter straddles the turn of the year. Regional periods such as the rainy season or the mating season are Time Cues, not Seasons.
+_Avoid_: Month (the text names none)
+
+**Time Cue**:
+A statement in the text from which a Story Date is derived: an explicit year or Season, an offset from another fact ("three weeks later"), or a Character's age.
+_Avoid_: Timestamp, date hint
+
 **Narrative Position**:
-Where a passage sits in the books, by volume and chapter.
+Where a passage sits in the books, by volume, chapter and passage, giving a total reading order. Readers only ever see the volume and chapter; the passage part is internal and need not match any printed edition.
 _Avoid_: Chapter date, reading order
 
 **Source Reference**:
 The Narrative Position (and, where possible, the excerpt) that backs a fact.
 _Avoid_: Citation, provenance, source
+
+**History**:
+The world's past before the plot, as the text recounts it; dated in the same calendar as Story Dates, but shown in its own Fresco.
+_Avoid_: Lore, backstory
+
+**Period**:
+A named span of History as the text names it (the Ancient Age of the Gods, the Chaotic Period, the Armored Dragon Era); Periods follow one another without overlapping. A war covering only part of a Period is an event, not a Period.
+_Avoid_: Age, epoch
+
+**Previous World**:
+The world Rudeus and Nanahoshi come from (Japan, on Earth); its time cannot be converted into Story Dates.
+_Avoid_: Earth timeline, real world
+
+**World Crossing**:
+A Character's passage from the Previous World into this one, by reincarnation or summoning, with a departure dated in the Previous World and an arrival dated by Story Date.
+_Avoid_: Isekai, transfer
+
+**Fresco**:
+A dedicated chronological view, such as History or the Previous World, separate from the Timeline Cursor.
+_Avoid_: Timeline (ambiguous)
 
 **Timeline Cursor**:
 The control the reader moves along the Story Date axis to choose the moment being viewed.
