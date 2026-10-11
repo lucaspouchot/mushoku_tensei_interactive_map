@@ -5,12 +5,20 @@ An interactive world map for the Mushoku Tensei light novel (volumes 1–12), sh
 ## Language
 
 **World Map**:
-The single illustrated map of the whole world (from volume 4's front matter) that serves as the backdrop on which everything is placed.
+The vector map of the whole world, redrawn from volume 4's front-matter illustration as a stack of Map Layers, on which everything is placed.
 _Avoid_: Map (ambiguous), background, image
 
+**Map Layer**:
+One thematic part of the World Map that can be shown or hidden on its own, such as the land outlines, relief, Routes or settlements.
+_Avoid_: Overlay, calque
+
+**Map Style**:
+A named look applied to all Map Layers at once (such as minimalist or fantasy) that the reader can switch without changing what the World Map shows.
+_Avoid_: Theme, skin
+
 **Map Coordinate**:
-A position on the World Map that stays valid whatever the resolution of the illustration used to display it.
-_Avoid_: Pixel position
+A point in the World Map's own flat plane, the same whatever Map Style or zoom displays it; not a longitude/latitude.
+_Avoid_: Pixel position, lon/lat
 
 **Location**:
 A named place in the story; it may lie inside a larger Location (a village inside a region) and may or may not appear on the World Map.
