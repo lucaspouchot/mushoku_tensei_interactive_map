@@ -23,3 +23,5 @@ For user-facing communication, use the language specified in `.agent-lang`. Read
 Keep standard software engineering terminology in English when it is commonly used as such by developers. Do not force localized translations of terms such as `commit`, `branch`, `pull request`, `endpoint`, `middleware`, `runtime`, `build`, or `deploy`.
 
 The user's language applies only to conversation. Project content MUST always remain in English.
+
+The one exception is **translations** shipped to readers of the application: UI translation files and translated data fields in other locales. English stays the source of every translation and the reference when they disagree; everything else (code, comments, docs, issues, the English source strings) stays in English.

@@ -1,4 +1,7 @@
 .archive
 .agent-lang
 .scratch/
+.claude/
 node_modules/
+books/
+assets/fresco_reference.jpg
